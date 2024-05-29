@@ -1,6 +1,6 @@
 # Demo-Repo
 
-##This is a heading
+## This is a heading
 
 _this is italics_
 
